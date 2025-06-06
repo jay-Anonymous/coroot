@@ -16,7 +16,7 @@
     "@codemirror/view": "^6.3.0",
     "@juggle/resize-observer": "^3.4.0",
     "@lezer/common": "^1.0.1",
-    "@prometheus-io/codemirror-promql": "^0.39.0-rc.0",
+    "@prometheus-io/codemirror-promql": "^0.303.1",
     "axios": "^1.6.0",
     "color-convert": "^2.0.1",
     "core-js": "^3.8.3",
