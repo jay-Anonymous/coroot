@@ -19,7 +19,7 @@
     "@prometheus-io/codemirror-promql": "^0.39.0-rc.0",
     "axios": "^1.6.0",
     "color-convert": "^2.0.1",
-    "core-js": "^3.8.3",
+    "core-js": "^3.42.0",
     "highlight.js": "^11.7.0",
     "pluralize": "^8.0.0",
     "sql-formatter": "^12.2.0",
